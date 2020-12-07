@@ -9,7 +9,6 @@ Used to create test pull requests
 
 Look at adding the below languages:
 
-* Python
 * Ruby
 * Dart
 * Erlang

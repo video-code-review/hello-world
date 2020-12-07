@@ -5,4 +5,4 @@ Run with:
     ./hello_script.swift
 */
 
-print("Hi world")
+print("Hello world")
