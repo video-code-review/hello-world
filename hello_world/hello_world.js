@@ -2,4 +2,4 @@
 Run with:
     node hello_world.js
 */
-console.log("Hello, World!");
+console.log("Hello world");
